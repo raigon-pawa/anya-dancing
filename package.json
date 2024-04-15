@@ -1,0 +1,29 @@
+{
+  "name": "anya-dancing",
+  "version": "0.0.1",
+  "description": "Anya Dancing as the music plays in the background.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raigon-pawa/anya-dancing.git"
+  },
+  "keywords": [
+    "music-bot",
+    "discord-bot",
+    "nodejs-discord-bot"
+  ],
+  "author": "Raigon Pawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raigon-pawa/anya-dancing/issues"
+  },
+  "homepage": "https://github.com/raigon-pawa/anya-dancing#readme",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  }
+}
